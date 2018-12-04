@@ -1,0 +1,11 @@
+/Users/MarteEggen/Projects/kalkis/kalkis/obj/Debug/netcoreapp2.1/kalkis.csprojAssemblyReference.cache
+/Users/MarteEggen/Projects/kalkis/kalkis/obj/Debug/netcoreapp2.1/kalkis.csproj.CoreCompileInputs.cache
+/Users/MarteEggen/Projects/kalkis/kalkis/obj/Debug/netcoreapp2.1/kalkis.AssemblyInfoInputs.cache
+/Users/MarteEggen/Projects/kalkis/kalkis/obj/Debug/netcoreapp2.1/kalkis.AssemblyInfo.cs
+/Users/MarteEggen/Projects/kalkis/kalkis/bin/Debug/netcoreapp2.1/kalkis.deps.json
+/Users/MarteEggen/Projects/kalkis/kalkis/bin/Debug/netcoreapp2.1/kalkis.runtimeconfig.json
+/Users/MarteEggen/Projects/kalkis/kalkis/bin/Debug/netcoreapp2.1/kalkis.runtimeconfig.dev.json
+/Users/MarteEggen/Projects/kalkis/kalkis/bin/Debug/netcoreapp2.1/kalkis.dll
+/Users/MarteEggen/Projects/kalkis/kalkis/bin/Debug/netcoreapp2.1/kalkis.pdb
+/Users/MarteEggen/Projects/kalkis/kalkis/obj/Debug/netcoreapp2.1/kalkis.dll
+/Users/MarteEggen/Projects/kalkis/kalkis/obj/Debug/netcoreapp2.1/kalkis.pdb

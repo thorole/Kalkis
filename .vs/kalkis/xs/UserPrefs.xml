@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D38A00C7-6D1F-4E66-8DC4-F01C17A35174}|Default">
+  <MonoDevelop.Ide.ItemProperties.kalkis PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="kalkis/Program.cs">
+    <Files>
+      <File FileName="kalkis/Program.cs" Line="23" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
